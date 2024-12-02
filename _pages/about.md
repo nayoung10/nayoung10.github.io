@@ -14,6 +14,8 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am currently a researcher at [MLLab @ POSTECH](https://ml.postech.ac.kr/), advised by [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home). I work on deep learning for drug and material discovery.
+I am currently a researcher at [MLLab @ POSTECH](https://ml.postech.ac.kr/), advised by [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home). Beginning February 2025, I will start my Ph.D. at KAIST. I work on deep learning for drug and material discovery.
+
+Previously, I completed an M.S. in Artificial Intelligence at KAIST, advised by [Jinkyoo Park](http://silab.kaist.ac.kr/). I also hold a B.S. in Chemical and Biomolecular Engineering from KAIST.
 
 <!-- Beginning February 2025, I will start my Ph.D. at KAIST under his supervision. I work on deep learning for drug and material discovery. -->

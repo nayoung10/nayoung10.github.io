@@ -1,0 +1,53 @@
+{
+  "education": [
+    {
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "area": "Kim Jaechul Graudate School of AI",
+      "studyType": "M.S.",
+      "startDate": "2022-02",
+      "endDate": "2024-08"
+    },
+    {
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "area": "Chemical and Biomolecular Engineering",
+      "studyType": "B.S.",
+      "startDate": "2017-08",
+      "endDate": "2022-02",
+      "courses": [
+        "Minor in Materials Science and Engineering",
+        "GPA 4.14/4.30 (Summa Cum Laude)"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Machine Learning Lab @ POSTECH",
+      "position": "Researcher",
+      "url": "https://ml.postech.ac.kr/",
+      "startDate": "2024-09",
+      "summary": "Advised by Sungsoo Ahn"
+    }
+  ],
+  "talks": [
+    {
+      "name": "KAIST"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ]
+}
