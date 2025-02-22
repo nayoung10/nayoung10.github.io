@@ -1,6 +1,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D., Kim Jaechul Graudate School of AI
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2025.02 - Present
+      description:
+        - Advised by Sungsoo Ahn 
     - title: M.S., Kim Jaechul Graudate School of AI
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2022.02 - 2024.08
@@ -18,13 +23,16 @@
   contents:
     - title: Researcher
       institution: Machine Learning Lab @ POSTECH
-      year: 2024.09 - Present
+      year: 2024.09 - 2025.01
       description:
         - Advised by Sungsoo Ahn
 
 - title: Talks
   type: time_table
   contents:
+    - title: "MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks"
+      institution: KAIST AI4Science Workshop
+      year: 2025.02
     - title: "MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks"
       institution: KAIST-MILA Prefrontal AI Research Center
       year: 2024.11
