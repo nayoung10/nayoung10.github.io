@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper accepted to TMLR 2025.
+One paper accepted to TMLR 2025.
